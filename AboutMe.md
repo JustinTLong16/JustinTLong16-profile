@@ -18,5 +18,15 @@ Im also a massive WWE fan thanks to my dad, he made me watch two matches of Wres
 
 
 |song name|Arist        |Genre|Year Released|Notes                |
-|---------|-------------|-----|-------------|---------------------|
-|Show Pony|Glass Animals|Indie|oct 15, 2024 |idk, i like this song|
+|----------------------|-------------|------|-------------|---------------------|
+|Show Pony             |Glass Animals|Indie |oct 15, 2024 |idk, i like this song|
+|Caught it             |Voila        |rock  |Nov 21, 2024 |this is cool song    |
+|ripped jeans          |AMAG         |Indie |Jan 15, 2021 |i like this one too  |
+|All Rise For The Night|WWE          |Rock  |Mar 2024     |All Rise             |
+|Moving On             |Rudy Wade    |pop   |March 18 2022|good song            |
+
+print "Hello World"
+
+> "since you wanna pretend to be the victim, we will make it so you dont have to pretend anymore, because now we are your devils and we are coming for you"
+>
+> -Damian Priest and Rhea Ripley
