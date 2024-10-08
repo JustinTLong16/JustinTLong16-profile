@@ -10,6 +10,9 @@ Im also a massive WWE fan thanks to my dad, he made me watch two matches of Wres
 
 *Hikaru Nakamura
 
+[image](https://github.com/JustinTLong16/JustinTLong16-profile/blob/main/HikaruNakamura.jpg)
+
 *Damian Priest (Luis Martinez)
+
 ![Image](https://github.com/JustinTLong16/JustinTLong16-profile/blob/main/DamianPriest.jpg)
 
