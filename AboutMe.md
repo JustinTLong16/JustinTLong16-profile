@@ -16,3 +16,8 @@ Im also a massive WWE fan thanks to my dad, he made me watch two matches of Wres
 
 ![Image](https://github.com/JustinTLong16/JustinTLong16-profile/blob/main/DamianPriest.jpg)
 
+
+|song name|Arist|Genre|Year Released|Notes|
+|---------|-----|-----||------------|-----|
+|Show Pony|Glass Animals|oct 15 2024|idk, i like this song|
+
