@@ -9,6 +9,7 @@ Outside of computers im a Chess player, i wouldnt say im good compared to the to
 Im also a massive WWE fan thanks to my dad, he made me watch two matches of Wrestlemania 40 when it went live, they were both night 2 matches, it was Randy Orton, Kevin Owens and Logan Paul for the United States championship and the main event Roman Reigns and Cody Rhodes for the Undisputed WWE Universal title Cody winning and dethroning Reigns and ending a Historic streak
 
 *Hikaru Nakamura
+
 *Damian Priest (Luis Martinez)
-[Image](https://github.com/JustinTLong16/JustinTLong16-profile/blob/main/DamianPriest.jpg)
+![Image](https://github.com/JustinTLong16/JustinTLong16-profile/blob/main/DamianPriest.jpg)
 
